@@ -1,0 +1,6 @@
+opencv-python
+pytesseract
+transformers
+torch
+numpy
+pandas
